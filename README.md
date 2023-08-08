@@ -15,5 +15,5 @@ UPSKILL : Javascript 코딩테스트 131개 예제 & CS지식으로 끝내기 (�
 
 ---
 
-### backjoon
+### baekjoon
 - 백준 문제풀이
